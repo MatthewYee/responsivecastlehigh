@@ -1,0 +1,14 @@
+body {
+    padding-top: 50px;  /* Move body of page below navbar. */
+    font-family: "Open Sans", serif;
+    text-color: #999;
+    background-color: #999;
+
+}
+
+.header-image {
+    background-image: url("header.jpg");
+    background-size: cover;
+    height : 180px;
+}
+
